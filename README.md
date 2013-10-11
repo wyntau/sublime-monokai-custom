@@ -11,4 +11,4 @@ Monokai-custom supports `Markdown` file highlight.
 1. Copy `Monokai-custom.tmTheme` to `Packages/Color Scheme - Default`.
 2. Modify sublimetext2 settings, add to or change your `preference.sublime-settings`
 
-    "color_scheme": "Packages/Color Scheme - Default/Monokai-custom.tmTheme"
+        "color_scheme": "Packages/Color Scheme - Default/Monokai-custom.tmTheme"
